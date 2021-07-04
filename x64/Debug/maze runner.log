@@ -1,0 +1,11 @@
+﻿  Astar.cpp
+  bestFirstSearch.cpp
+  BrFS.cpp
+  DFS.cpp
+E:\maze runner\DFS.cpp(40,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Dijkstra.cpp
+  generatingMaze.cpp
+  mazeFactory.cpp
+  Source.cpp
+  Generating Code...
+  maze runner.vcxproj -> E:\maze runner\x64\Debug\maze runner.exe
